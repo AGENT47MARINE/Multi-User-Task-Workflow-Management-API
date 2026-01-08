@@ -1,4 +1,4 @@
-Tech Stack (Non-Negotiable)
+Tech Stack
 
 Language: Python
 
